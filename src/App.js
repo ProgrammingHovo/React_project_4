@@ -6,7 +6,7 @@ function App() {
     <main>
       <section className='container' >
         <div className='title'>
-          <h2>Our reviews</h2>
+          <h2 className='page_title'>Our reviews</h2>
         </div>
         <Review />
       </section>
